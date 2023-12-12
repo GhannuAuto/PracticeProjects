@@ -11,6 +11,7 @@ public class LoginClass {
     @Given("User is no login page")
     public void user_is_no_login_page() {
         System.out.println("user is on login Page");
+        System.out.println("Ghanshyam ");
     }
     @When("User enters username and password")
     public void user_enters_username_and_password() {
